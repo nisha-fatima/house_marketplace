@@ -1,0 +1,3 @@
+Fullstack marketplace app built with React and Firebase for backend to rent or sell your real estate properties. Users can sign up with email and password, or with their google accounts using OAuth and list their properties for sell or rent with the option to put it on special offer with discounted price.
+
+Once logged in, you can view all the properties you listed, and be able to edit, update or delist them
